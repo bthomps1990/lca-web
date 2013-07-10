@@ -1,0 +1,7 @@
+/** use #id to specify a style for a single, unique element: '#para1{ }'
+ *  use .class to specify a style for a group of elements: '.center{ }' or 'p.center{ }'
+ */
+
+body {
+	background-color:#FDE93C;
+}
